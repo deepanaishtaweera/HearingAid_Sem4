@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=U1-2
+Change Component Footprint: Designator=C1 Old Footprint=POLYESTER_CAP New Footprint=POLYESTER_CAP2
+Change Component Comment : Designator=R9 Old Comment=22k New Comment=2.2k
+Change Component Comment : Designator=C1 Old Comment=POLYESTER_CAP New Comment=POLYESTER_CAP2
+Added Component: Designator=C2(POLYESTER_CAP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(POLYESTER_CAP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(POLYESTER_CAP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(POLYESTER_CAP2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(LM7805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(TRIMMER_10K)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/docs/Product-Datasheets/3292.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/3292.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.bourns.com/data/global/pdfs/3292.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/data/global/pdfs/3292.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3292W-1-103MLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Panel Mount/Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25(Elec) Turns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-65 to 150 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail / Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/2 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=23.15, 10=21.3, 50=15.75, 100=14.53, 1000=13.16, 10000=13.16 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Value"; Value = "10 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "652-3292W-1-103MLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Trimmer"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MIC Pin=C2-2
+Added Pin To Net: NetName=NetR6_2 Pin=C3-2
+Added Pin To Net: NetName=BAT Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=BAT Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=5V Pin=L1-3
+Added Pin To Net: NetName=GND Pin=R11-2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetC3_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=T1-1
+Added Pin To Net: NetName=NetC1_1 Pin=T3-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R9-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R11-1
+Added Pin To Net: NetName=NetR10_2 Pin=U1-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=PRE_AMP_OUT Pin=C3-1
+Added Pin To Net: NetName=PRE_AMP_OUT Pin=R10-1
+Added Pin To Net: NetName=PRE_AMP_OUT Pin=U1-1
+Added Net: Name=PRE_AMP_OUT
+Added Member To Class: ClassName=HearingAid Member=Component C2 POLYESTER_CAP2
+Added Member To Class: ClassName=HearingAid Member=Component C3 POLYESTER_CAP2
+Added Member To Class: ClassName=HearingAid Member=Component C4 POLYESTER_CAP2
+Added Member To Class: ClassName=HearingAid Member=Component C5 POLYESTER_CAP2
+Added Member To Class: ClassName=HearingAid Member=Component L1 LM7805
+Added Member To Class: ClassName=HearingAid Member=Component R10 Var_Res_100K
+Added Member To Class: ClassName=HearingAid Member=Component R11 10k

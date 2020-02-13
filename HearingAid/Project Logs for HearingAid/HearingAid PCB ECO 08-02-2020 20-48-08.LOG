@@ -1,0 +1,6 @@
+Change Component Comment : Designator=J3 Old Comment=5V_JUMPER New Comment=MIC_TEST
+Added Component: Designator=J4(HEADER_MALE_2_POS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PRE_AMP_OUT Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=HearingAid Member=Component J4 PRE_AMP_TEST

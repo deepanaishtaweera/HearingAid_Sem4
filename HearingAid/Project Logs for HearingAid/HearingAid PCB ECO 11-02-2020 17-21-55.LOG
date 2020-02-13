@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=GND Pin=M1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Change Component Comment : Designator=C4 Old Comment=POLYESTER_CAP2 New Comment=0.33uF_MYLAR_CAP
+Change Component Comment : Designator=C5 Old Comment=POLYESTER_CAP2 New Comment=0.33uF_MYLAR_CAP
+Change Component Comment : Designator=C3 Old Comment=POLYESTER_CAP2 New Comment=0.33uF MYLAR_CAP
+Change Component Comment : Designator=C1 Old Comment=POLYESTER_CAP2 New Comment=POLYESTER_CAP_33uF
+Change Component Comment : Designator=C2 Old Comment=POLYESTER_CAP2 New Comment=POLYESTER_CAP_33uF
+Added Component: Designator=R13(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=2.5V Pin=M1-1
+Added Pin To Net: NetName=2.5V Pin=M1-2
+Added Pin To Net: NetName=2.5V Pin=R13-2
+Added Pin To Net: NetName=2.5V Pin=R14-1
+Added Pin To Net: NetName=2.5V Pin=U1-3
+Added Net: Name=2.5V
+Added Member To Class: ClassName=HearingAid Member=Component R13 1k
+Added Member To Class: ClassName=HearingAid Member=Component R14 1k

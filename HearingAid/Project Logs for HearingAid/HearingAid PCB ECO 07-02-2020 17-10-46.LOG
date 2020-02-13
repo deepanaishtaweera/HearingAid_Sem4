@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=MH? NewDesignator=MH1
+Added Component: Designator=MH2(MOUNTING_HOLE_3mm_NONPLATED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH3(MOUNTING_HOLE_3mm_NONPLATED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MH4(MOUNTING_HOLE_3mm_NONPLATED)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=HearingAid Member=Component MH2 MOUNTING_HOLE_3mm_NON_PLATED
+Added Member To Class: ClassName=HearingAid Member=Component MH3 MOUNTING_HOLE_3mm_NON_PLATED
+Added Member To Class: ClassName=HearingAid Member=Component MH4 MOUNTING_HOLE_3mm_NON_PLATED

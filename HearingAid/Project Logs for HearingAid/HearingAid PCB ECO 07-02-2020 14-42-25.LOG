@@ -1,0 +1,10 @@
+Added Component: Designator=R1(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(BC639)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(BC640)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(LM324)
+Add component. Clean all parameters for all variants
+Added Class: Name=HearingAid
+Added Room: Name=HearingAid

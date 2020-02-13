@@ -1,0 +1,6 @@
+Added Component: Designator=J5(HEADER_MALE_2_POS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_2 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=POWER_AMP_OUT
+Added Member To Class: ClassName=HearingAid Member=Component J5 POWER_AMP_TEST

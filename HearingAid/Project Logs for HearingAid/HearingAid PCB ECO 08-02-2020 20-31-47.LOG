@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=5V Pin=C5-1
+Removed Pin From Net: NetName=5V Pin=L1-3
+Added Component: Designator=J2(HEADER_MALE_2_POS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(LED_3mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=5V_JUMPER Pin=C5-1
+Added Pin To Net: NetName=5V_JUMPER Pin=J2-2
+Added Pin To Net: NetName=5V_JUMPER Pin=L1-3
+Added Pin To Net: NetName=5V_JUMPER Pin=R12-1
+Added Net: Name=5V_JUMPER
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R12-2
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=HearingAid Member=Component J2 5V_JUMPER
+Added Member To Class: ClassName=HearingAid Member=Component L2 LED
+Added Member To Class: ClassName=HearingAid Member=Component R12 330

@@ -1,0 +1,5 @@
+Added Component: Designator=J?(HEADER_MALE_2_POS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MIC Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=HearingAid Member=Component J? 5V_JUMPER

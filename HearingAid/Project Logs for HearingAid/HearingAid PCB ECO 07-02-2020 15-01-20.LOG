@@ -1,0 +1,68 @@
+Change Component Designator: OldDesignator=T2 NewDesignator=T3
+Added Component: Designator=J1(HEADER_MALE_2_POS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(Axial_Res)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(BC639)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(BC640)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=T3-2
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=T1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=T2-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=T2-3
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=T2-1
+Added Pin To Net: NetName=NetR5_2 Pin=T3-3
+Added Pin To Net: NetName=NetR5_2 Pin=T4-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Pin To Net: NetName=NetR6_2 Pin=T4-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=T4-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetT1_1 Pin=T3-1
+Added Net: Name=NetT1_1
+Added Member To Class: ClassName=HearingAid Member=Component J1 9V_BATTERY
+Added Member To Class: ClassName=HearingAid Member=Component R3 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component R4 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component R5 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component R6 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component R7 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component R8 Axial_Res
+Added Member To Class: ClassName=HearingAid Member=Component T3 BC640
+Added Member To Class: ClassName=HearingAid Member=Component T4 BC640
