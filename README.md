@@ -19,16 +19,26 @@
 
 ## Simulation
 
-- All the `code` required to get started
-- Images of what it should look like
+- Simulation for the power amplifier is done using LTSpice software
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/deepanaishtaweera/HearingAid_Sem4/blob/master/Photos/LTSpice_Circuit.png?s=800)]()
 
 ---
 
 ## PCB_Design
 
-- If you want more syntax highlighting, format your code like this:
+- PCB is designed using Altium Designer 17 software
+
+> Schematic
+
+[![INSERT YOUR GRAPHIC HERE](https://github.com/deepanaishtaweera/HearingAid_Sem4/blob/master/Photos/PCB_Schematic.png?s=800)]()
+
+> PCB 3D view
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/deepanaishtaweera/HearingAid_Sem4/blob/master/Photos/PCB_3D.png?s=800)]()
+
+
+
 
 ---
 
