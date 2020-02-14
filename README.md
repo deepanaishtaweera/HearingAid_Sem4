@@ -23,7 +23,7 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/deepanaishtaweera/HearingAid_Sem4/blob/master/Photos/PCB_3D.png?s=800)]()
 
 > Tips
 
